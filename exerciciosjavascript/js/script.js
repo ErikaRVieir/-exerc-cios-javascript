@@ -48,12 +48,12 @@ console.log(n * o / p + q - r)
 //O Segundo Sol
 //Cássia Eller
 
-const Sol = "Astro-rei";
+const Sol = "astro-rei";
 const cometa = "corpo celestial";
 const telefone = "celular";
-const casa = "família";
-const Sóis ="Astros-reis";
-const explicação="razão";
+const casa = "familia";
+const Sóis ="astros-reis";
+const explicação="razao";
 
 
 const poema = `Quando o segundo ${Sol} chegar
@@ -134,7 +134,7 @@ const altura = parseFloat(prompt("Digite a altura do retângulo:"));
 const area = base * altura;
 
 alert(`A área do retângulo com base ${base} e altura ${altura} é ${area}.`);
-prompt("Digite a base do retângulo:");
+
 
 
 //7-Crie uma condicional para verificar se o caractere é uma vogal
