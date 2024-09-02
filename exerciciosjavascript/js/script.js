@@ -48,12 +48,12 @@ console.log(n * o / p + q - r)
 //O Segundo Sol
 //Cássia Eller
 
-const Sol = "astro-rei";
+const sol = "astro-rei";
 const cometa = "corpo celestial";
 const telefone = "celular";
-const casa = "familia";
-const Sóis ="astros-reis";
-const explicação="razao";
+const casa = "família";
+const sois ="astros-reis";
+const explicacao="razão";
 
 
 const poema = `Quando o segundo ${Sol} chegar
